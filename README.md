@@ -1,4 +1,4 @@
-# 🥸 Hello!
+# 👋 Hello!
 🔭 Working with Next.js, Fastify, Prisma<br>
 🕵️ Exploring Rust
 
